@@ -1,0 +1,6 @@
+{
+    "name" : "webutilz/javascript-emotify",
+    "webutilz/javascript-emotify" : {
+      "js" : ["ba-emotify.js"]
+    }
+}
