@@ -1,0 +1,13 @@
+{
+  "name": "javascript-emotify",
+  "main": "dist/js/emojify.js",
+  "homepage": "https://github.com/cowboy/javascript-emotify.git",
+  "authors": [
+    "Ben Alman"
+  ],
+  "description": "A Javascript module to convert Emoji keywords to images",
+  "keywords": [
+    "emoji"
+  ],
+  "license": "MIT"
+}
